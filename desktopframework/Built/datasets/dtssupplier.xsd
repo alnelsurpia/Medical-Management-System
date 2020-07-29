@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dtssupplier" targetNamespace="http://tempuri.org/dtssupplier.xsd" xmlns:mstns="http://tempuri.org/dtssupplier.xsd" xmlns="http://tempuri.org/dtssupplier.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="dbmedconn" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="dbmedconn (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.desktopframework.My.MySettings.GlobalReference.Default.dbmedconn" Provider="MySql.Data.MySqlClient" />
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="dmmed2" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="dmmed2 (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.desktopframework.My.MySettings.GlobalReference.Default.dmmed2" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tblsupplierTableAdapter" GeneratorDataComponentClassName="tblsupplierTableAdapter" Name="tblsupplier" UserDataComponentName="tblsupplierTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="dbmedconn (MySettings)" DbObjectName="dbbajmed.tblsupplier" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        suppname, suppcontactP, suppNO
+FROM            tblsupplier where supplier = 'True' order by suppname asc</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="suppname" DataSetColumn="suppname" />
+              <Mapping SourceColumn="suppcontactP" DataSetColumn="suppcontactP" />
+              <Mapping SourceColumn="suppNO" DataSetColumn="suppNO" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tblitemlistTableAdapter" GeneratorDataComponentClassName="tblitemlistTableAdapter" Name="tblitemlist" UserDataComponentName="tblitemlistTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="dbmedconn (MySettings)" DbObjectName="dbmed.tblitemlist" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        itemcode, itemdesc, unit, price, stocks, expiration_D
+FROM            tblitemlist</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="itemcode" DataSetColumn="itemcode" />
+              <Mapping SourceColumn="itemdesc" DataSetColumn="itemdesc" />
+              <Mapping SourceColumn="unit" DataSetColumn="unit" />
+              <Mapping SourceColumn="price" DataSetColumn="price" />
+              <Mapping SourceColumn="stocks" DataSetColumn="stocks" />
+              <Mapping SourceColumn="expiration_D" DataSetColumn="expiration_D" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tblmanufacturerTableAdapter" GeneratorDataComponentClassName="tblmanufacturerTableAdapter" Name="tblmanufacturer" UserDataComponentName="tblmanufacturerTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="dbmedconn (MySettings)" DbObjectName="dbbajmed.tblsupplier" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        suppname, suppcontactP, suppNO
+FROM            tblsupplier where manufacturer = 'True' order by suppname asc</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="suppname" DataSetColumn="suppname" />
+              <Mapping SourceColumn="suppcontactP" DataSetColumn="suppcontactP" />
+              <Mapping SourceColumn="suppNO" DataSetColumn="suppNO" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tblman2TableAdapter" GeneratorDataComponentClassName="tblman2TableAdapter" Name="tblman2" UserDataComponentName="tblman2TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="dbmedconn (MySettings)" DbObjectName="dbbajmed.tblsupplier" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        suppname, suppcontactP, suppNO
+FROM            tblsupplier where manufacturer = 'True'  order by suppname asc</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="suppname" DataSetColumn="suppname" />
+              <Mapping SourceColumn="suppcontactP" DataSetColumn="suppcontactP" />
+              <Mapping SourceColumn="suppNO" DataSetColumn="suppNO" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dtssupplier" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dtssupplier" msprop:Generator_DataSetName="dtssupplier" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblsupplier" msprop:Generator_UserTableName="tblsupplier" msprop:Generator_RowDeletedName="tblsupplierRowDeleted" msprop:Generator_RowChangedName="tblsupplierRowChanged" msprop:Generator_RowClassName="tblsupplierRow" msprop:Generator_RowChangingName="tblsupplierRowChanging" msprop:Generator_RowEvArgName="tblsupplierRowChangeEvent" msprop:Generator_RowEvHandlerName="tblsupplierRowChangeEventHandler" msprop:Generator_TableClassName="tblsupplierDataTable" msprop:Generator_TableVarName="tabletblsupplier" msprop:Generator_RowDeletingName="tblsupplierRowDeleting" msprop:Generator_TablePropName="tblsupplier">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="suppname" msprop:Generator_UserColumnName="suppname" msprop:Generator_ColumnVarNameInTable="columnsuppname" msprop:Generator_ColumnPropNameInRow="suppname" msprop:Generator_ColumnPropNameInTable="suppnameColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="suppcontactP" msprop:Generator_UserColumnName="suppcontactP" msprop:Generator_ColumnVarNameInTable="columnsuppcontactP" msprop:Generator_ColumnPropNameInRow="suppcontactP" msprop:Generator_ColumnPropNameInTable="suppcontactPColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="suppNO" msprop:Generator_UserColumnName="suppNO" msprop:Generator_ColumnVarNameInTable="columnsuppNO" msprop:Generator_ColumnPropNameInRow="suppNO" msprop:Generator_ColumnPropNameInTable="suppNOColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tblitemlist" msprop:Generator_UserTableName="tblitemlist" msprop:Generator_RowDeletedName="tblitemlistRowDeleted" msprop:Generator_RowChangedName="tblitemlistRowChanged" msprop:Generator_RowClassName="tblitemlistRow" msprop:Generator_RowChangingName="tblitemlistRowChanging" msprop:Generator_RowEvArgName="tblitemlistRowChangeEvent" msprop:Generator_RowEvHandlerName="tblitemlistRowChangeEventHandler" msprop:Generator_TableClassName="tblitemlistDataTable" msprop:Generator_TableVarName="tabletblitemlist" msprop:Generator_RowDeletingName="tblitemlistRowDeleting" msprop:Generator_TablePropName="tblitemlist">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="itemcode" msprop:Generator_UserColumnName="itemcode" msprop:Generator_ColumnVarNameInTable="columnitemcode" msprop:Generator_ColumnPropNameInRow="itemcode" msprop:Generator_ColumnPropNameInTable="itemcodeColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="itemdesc" msprop:Generator_UserColumnName="itemdesc" msprop:Generator_ColumnVarNameInTable="columnitemdesc" msprop:Generator_ColumnPropNameInRow="itemdesc" msprop:Generator_ColumnPropNameInTable="itemdescColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="unit" msprop:Generator_UserColumnName="unit" msprop:Generator_ColumnVarNameInTable="columnunit" msprop:Generator_ColumnPropNameInRow="unit" msprop:Generator_ColumnPropNameInTable="unitColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="price" msprop:Generator_UserColumnName="price" msprop:Generator_ColumnVarNameInTable="columnprice" msprop:Generator_ColumnPropNameInRow="price" msprop:Generator_ColumnPropNameInTable="priceColumn" type="xs:double" />
+              <xs:element name="stocks" msprop:Generator_UserColumnName="stocks" msprop:Generator_ColumnVarNameInTable="columnstocks" msprop:Generator_ColumnPropNameInRow="stocks" msprop:Generator_ColumnPropNameInTable="stocksColumn" type="xs:double" />
+              <xs:element name="expiration_D" msprop:Generator_UserColumnName="expiration_D" msprop:Generator_ColumnVarNameInTable="columnexpiration_D" msprop:Generator_ColumnPropNameInRow="expiration_D" msprop:Generator_ColumnPropNameInTable="expiration_DColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tblmanufacturer" msprop:Generator_UserTableName="tblmanufacturer" msprop:Generator_RowDeletedName="tblmanufacturerRowDeleted" msprop:Generator_RowChangedName="tblmanufacturerRowChanged" msprop:Generator_RowClassName="tblmanufacturerRow" msprop:Generator_RowChangingName="tblmanufacturerRowChanging" msprop:Generator_RowEvArgName="tblmanufacturerRowChangeEvent" msprop:Generator_RowEvHandlerName="tblmanufacturerRowChangeEventHandler" msprop:Generator_TableClassName="tblmanufacturerDataTable" msprop:Generator_TableVarName="tabletblmanufacturer" msprop:Generator_RowDeletingName="tblmanufacturerRowDeleting" msprop:Generator_TablePropName="tblmanufacturer">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="suppname" msprop:Generator_UserColumnName="suppname" msprop:Generator_ColumnPropNameInRow="suppname" msprop:Generator_ColumnVarNameInTable="columnsuppname" msprop:Generator_ColumnPropNameInTable="suppnameColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="suppcontactP" msprop:Generator_UserColumnName="suppcontactP" msprop:Generator_ColumnPropNameInRow="suppcontactP" msprop:Generator_ColumnVarNameInTable="columnsuppcontactP" msprop:Generator_ColumnPropNameInTable="suppcontactPColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="suppNO" msprop:Generator_UserColumnName="suppNO" msprop:Generator_ColumnPropNameInRow="suppNO" msprop:Generator_ColumnVarNameInTable="columnsuppNO" msprop:Generator_ColumnPropNameInTable="suppNOColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tblman2" msprop:Generator_UserTableName="tblman2" msprop:Generator_RowDeletedName="tblman2RowDeleted" msprop:Generator_RowChangedName="tblman2RowChanged" msprop:Generator_RowClassName="tblman2Row" msprop:Generator_RowChangingName="tblman2RowChanging" msprop:Generator_RowEvArgName="tblman2RowChangeEvent" msprop:Generator_RowEvHandlerName="tblman2RowChangeEventHandler" msprop:Generator_TableClassName="tblman2DataTable" msprop:Generator_TableVarName="tabletblman2" msprop:Generator_RowDeletingName="tblman2RowDeleting" msprop:Generator_TablePropName="tblman2">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="suppname" msprop:Generator_UserColumnName="suppname" msprop:Generator_ColumnVarNameInTable="columnsuppname" msprop:Generator_ColumnPropNameInRow="suppname" msprop:Generator_ColumnPropNameInTable="suppnameColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="suppcontactP" msprop:Generator_UserColumnName="suppcontactP" msprop:Generator_ColumnVarNameInTable="columnsuppcontactP" msprop:Generator_ColumnPropNameInRow="suppcontactP" msprop:Generator_ColumnPropNameInTable="suppcontactPColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="suppNO" msprop:Generator_UserColumnName="suppNO" msprop:Generator_ColumnVarNameInTable="columnsuppNO" msprop:Generator_ColumnPropNameInRow="suppNO" msprop:Generator_ColumnPropNameInTable="suppNOColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="45" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

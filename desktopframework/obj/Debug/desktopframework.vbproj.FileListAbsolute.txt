@@ -1,0 +1,331 @@
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\bin\Debug\desktopframework.exe.config
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\bin\Debug\desktopframework.exe
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\bin\Debug\desktopframework.pdb
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\bin\Debug\desktopframework.xml
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\bin\Debug\LybraVb.dll
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\obj\Debug\desktopframework.frmLogin.resources
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\obj\Debug\desktopframework.frmSetting.resources
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\obj\Debug\desktopframework.SplashScreen.resources
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\obj\Debug\desktopframework.frmUser.resources
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\obj\Debug\desktopframework.Resources.resources
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\obj\Debug\desktopframework.vbproj.GenerateResource.Cache
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\obj\Debug\desktopframework.exe
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\obj\Debug\desktopframework.xml
+C:\Users\quickboylaptop\Desktop\surfix\desktopframework\desktopframework\obj\Debug\desktopframework.pdb
+C:\Users\quickboylaptop\Desktop\surfix\monitor\desktopframework\bin\Debug\desktopframework.exe.config
+C:\Users\quickboylaptop\Desktop\surfix\monitor\desktopframework\obj\Debug\desktopframework.exe
+C:\Users\quickboylaptop\Desktop\surfix\monitor\desktopframework\obj\Debug\desktopframework.xml
+C:\Users\quickboylaptop\Desktop\surfix\monitor\desktopframework\obj\Debug\desktopframework.pdb
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\bin\Debug\desktopframework.exe.config
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\bin\Debug\desktopframework.exe.manifest
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\bin\Debug\desktopframework.application
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\bin\Debug\desktopframework.exe
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\bin\Debug\desktopframework.pdb
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\bin\Debug\desktopframework.xml
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\bin\Debug\LybraVb.dll
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\ResolveAssemblyReference.cache
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmallstatement.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmLogin.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmmain.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmSetting.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.SplashScreen.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmitemlist.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmclient.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmcollectionrec.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmdelievery.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmpayment.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmPO.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmrecieved.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmmanufacturerinfo.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmUser.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.Resources.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmcollection.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmdelprint.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmpurchaserpt.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmrecievables.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmrecivedrpt.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmsalesrpt.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.Statement.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmcollected.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.vbproj.GenerateResource.Cache
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\RdlCompile.cache
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\RdlCompile.compiled
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.exe.manifest
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.application
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.exe
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.xml
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.pdb
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmPrintItemlist.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\surfix\monitor\desktopframework\obj\Debug\desktopframework.frmrecieveblebyclient.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\bin\Debug\desktopframework.exe.config
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\ResolveAssemblyReference.cache
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmtrmain.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmPrintItemlist.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmrecieveblebyclient.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmRPQ.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmallstatement.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmLogin.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmmain.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmSetting.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.SplashScreen.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmitemlist.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmclient.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmcollectionrec.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmdelievery.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmpayment.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmPO.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmrecieved.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmmanufacturerinfo.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmUser.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.Resources.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmcollection.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmdelprint.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmpurchaserpt.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmrecievables.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmrecivedrpt.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmsalesrpt.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.Statement.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmcollected.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.vbproj.GenerateResource.Cache
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\RdlCompile.cache
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\RdlCompile.compiled
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\bin\Debug\desktopframework.exe.manifest
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\bin\Debug\desktopframework.application
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\bin\Debug\desktopframework.exe
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\bin\Debug\desktopframework.pdb
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\bin\Debug\desktopframework.xml
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\bin\Debug\AIButton.dll
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\bin\Debug\LybraVb.dll
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.exe.manifest
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.application
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.exe
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.xml
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.pdb
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmprprint.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmtrprint.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmpoclientreport.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmdeleveryrpt.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmci.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmuploaded.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmpofrompr.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmimageprint.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmstatus.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmOR.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmnewDR.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmtempdr.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmchargeinv.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmCinvoice.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmtransactionref.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmviewlacking.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\newbaj\Baj\desktopframework\obj\Debug\desktopframework.frmPOtosupplier.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\bin\Debug\desktopframework.exe.config
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.exe
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.xml
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.pdb
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\bin\Debug\desktopframework.exe.manifest
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\bin\Debug\desktopframework.application
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\bin\Debug\desktopframework.exe
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\bin\Debug\desktopframework.pdb
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\bin\Debug\desktopframework.xml
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\bin\Debug\LybraVb.dll
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\ResolveAssemblyReference.cache
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmPOtosupplier.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmtransactionref.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmviewlacking.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmnewDR.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmOR.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmchargeinv.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmstatus.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmuploaded.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmtrmain.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmci.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmCinvoice.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmdeleveryrpt.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmimageprint.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmpoclientreport.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmpofrompr.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmPrintItemlist.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmprprint.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrecieveblebyclient.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmRPQ.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmtempdr.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmtrprint.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmallstatement.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmLogin.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmmain.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmSetting.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.SplashScreen.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmitemlist.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmclient.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmcollectionrec.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmdelievery.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmpayment.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmPO.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrecieved.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmmanufacturerinfo.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmUser.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.Resources.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmcollection.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmdelprint.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmpurchaserpt.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrecievables.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrecivedrpt.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmsalesrpt.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.Statement.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmcollected.resources
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.vbproj.GenerateResource.Cache
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\RdlCompile.cache
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\RdlCompile.compiled
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.exe.manifest
+C:\Windows.old\Users\quickboylaptop\Desktop\workload\baj\Baj backup\desktopframework\obj\Debug\desktopframework.application
+F:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.exe.config
+F:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.exe.manifest
+F:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.application
+F:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.exe
+F:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.pdb
+F:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.xml
+F:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\LybraVb.dll
+F:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\ResolveAssemblyReference.cache
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmPOtosupplier.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmtransactionref.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmviewlacking.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmnewDR.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmOR.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmchargeinv.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmstatus.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmuploaded.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmtrmain.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmci.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmCinvoice.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmdeleveryrpt.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmimageprint.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmpoclientreport.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmpofrompr.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmPrintItemlist.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmprprint.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrecieveblebyclient.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmRPQ.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmtempdr.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmtrprint.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmallstatement.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmLogin.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmmain.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmSetting.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.SplashScreen.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmitemlist.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmclient.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmcollectionrec.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmdelievery.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmpayment.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmPO.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrecieved.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmmanufacturerinfo.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmUser.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.Resources.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmcollection.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmdelprint.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmpurchaserpt.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrecievables.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrecivedrpt.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmsalesrpt.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.Statement.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmcollected.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.vbproj.GenerateResource.Cache
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\RdlCompile.cache
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\RdlCompile.compiled
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.exe.manifest
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.application
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.exe
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.xml
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.pdb
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrebate.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmcog.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmcogprint.resources
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmassessmentslip.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.exe.config
+G:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.exe.manifest
+G:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.application
+G:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.exe
+G:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.pdb
+G:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.xml
+G:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\LybraVb.dll
+G:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\ResolveAssemblyReference.cache
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmcog.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmcogprint.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrebate.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmassessmentslip.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmPOtosupplier.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmtransactionref.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmviewlacking.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmnewDR.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmOR.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmchargeinv.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmstatus.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmuploaded.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmtrmain.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmci.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmCinvoice.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmdeleveryrpt.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmimageprint.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmpoclientreport.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmpofrompr.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmPrintItemlist.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmprprint.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrecieveblebyclient.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmRPQ.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmtempdr.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmtrprint.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmallstatement.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmLogin.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmmain.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmSetting.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.SplashScreen.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmitemlist.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmclient.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmcollectionrec.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmdelievery.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmpayment.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmPO.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrecieved.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmmanufacturerinfo.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmUser.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.Resources.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmcollection.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmdelprint.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmpurchaserpt.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrecievables.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrecivedrpt.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmsalesrpt.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.Statement.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmcollected.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.vbproj.GenerateResource.Cache
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\RdlCompile.cache
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\RdlCompile.compiled
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.exe.manifest
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.application
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.exe
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.xml
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.pdb
+F:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmextra.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmextra.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmrebateprint2.resources
+G:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.frmcristalreport.resources
+D:\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.exe.config
+D:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.exe
+D:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.xml
+D:\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.pdb
+I:\del drive d\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.exe.config
+I:\del drive d\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.exe
+I:\del drive d\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.xml
+I:\del drive d\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.pdb
+E:\del drive d\workload as of jun152011\baj\Baj backup\desktopframework\bin\Debug\desktopframework.exe.config
+E:\del drive d\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.exe
+E:\del drive d\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.xml
+E:\del drive d\workload as of jun152011\baj\Baj backup\desktopframework\obj\Debug\desktopframework.pdb

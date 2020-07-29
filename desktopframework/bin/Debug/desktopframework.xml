@@ -1,0 +1,892 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+desktopframework
+</name>
+</assembly>
+<members>
+<member name="T:desktopframework.dtsrebate.tblrebateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtsrebate.tblrebateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtsrebate.tblrebateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtsrebate">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:desktopframework.dtsrebateTableAdapters.tblrebateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:desktopframework.dtsrebateTableAdapters.TableAdapterManager.UpdateUpdatedRows(desktopframework.dtsrebate,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtsrebateTableAdapters.TableAdapterManager.UpdateInsertedRows(desktopframework.dtsrebate,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtsrebateTableAdapters.TableAdapterManager.UpdateDeletedRows(desktopframework.dtsrebate,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:desktopframework.dtsrebateTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:desktopframework.dtsrebateTableAdapters.TableAdapterManager.UpdateAll(desktopframework.dtsrebate)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:desktopframework.dtsrebateTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:desktopframework.dtsrebateTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:desktopframework.dtsrebateTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:desktopframework.dtsassesmentslip.txtcogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtsassesmentslip.tbltrmainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtsassesmentslip.txtcogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtsassesmentslip.tbltrmainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtsassesmentslip.txtcogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtsassesmentslip.tbltrmainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtsassesmentslip">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:desktopframework.dtsassesmentslipTableAdapters.txtcogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtsassesmentslipTableAdapters.tbltrmainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:desktopframework.dtsassesmentslipTableAdapters.TableAdapterManager.UpdateUpdatedRows(desktopframework.dtsassesmentslip,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtsassesmentslipTableAdapters.TableAdapterManager.UpdateInsertedRows(desktopframework.dtsassesmentslip,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtsassesmentslipTableAdapters.TableAdapterManager.UpdateDeletedRows(desktopframework.dtsassesmentslip,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:desktopframework.dtsassesmentslipTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:desktopframework.dtsassesmentslipTableAdapters.TableAdapterManager.UpdateAll(desktopframework.dtsassesmentslip)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:desktopframework.dtsassesmentslipTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:desktopframework.dtsassesmentslipTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:desktopframework.dtsassesmentslipTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:desktopframework.dtstransref.tbltrmainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtstransref.tbltransacDRDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtstransref.tbltrmainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtstransref.tbltransacDRRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtstransref.tbltrmainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtstransref.tbltransacDRRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtstransref">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:desktopframework.dtstransrefTableAdapters.tbltrmainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtstransrefTableAdapters.tbltransacDRTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:desktopframework.dtstransrefTableAdapters.TableAdapterManager.UpdateUpdatedRows(desktopframework.dtstransref,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtstransrefTableAdapters.TableAdapterManager.UpdateInsertedRows(desktopframework.dtstransref,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtstransrefTableAdapters.TableAdapterManager.UpdateDeletedRows(desktopframework.dtstransref,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:desktopframework.dtstransrefTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:desktopframework.dtstransrefTableAdapters.TableAdapterManager.UpdateAll(desktopframework.dtstransref)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:desktopframework.dtstransrefTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:desktopframework.dtstransrefTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:desktopframework.dtstransrefTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:desktopframework.dtsitemlist.tblitemlistDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtsitemlist.tbldelieveryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtsitemlist.tbltempdrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtsitemlist.tblitemlistRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtsitemlist.tbldelieveryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtsitemlist.tbltempdrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtsitemlist.tblitemlistRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtsitemlist.tbldelieveryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtsitemlist.tbltempdrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtsitemlist">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:desktopframework.dtsitemlistTableAdapters.tblitemlistTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtsitemlistTableAdapters.tbldelieveryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtsitemlistTableAdapters.tbltempdrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:desktopframework.dtsitemlistTableAdapters.TableAdapterManager.UpdateUpdatedRows(desktopframework.dtsitemlist,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtsitemlistTableAdapters.TableAdapterManager.UpdateInsertedRows(desktopframework.dtsitemlist,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtsitemlistTableAdapters.TableAdapterManager.UpdateDeletedRows(desktopframework.dtsitemlist,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:desktopframework.dtsitemlistTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:desktopframework.dtsitemlistTableAdapters.TableAdapterManager.UpdateAll(desktopframework.dtsitemlist)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:desktopframework.dtsitemlistTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:desktopframework.dtsitemlistTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:desktopframework.dtsitemlistTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblrecievedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tbldelieveryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblpurchaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.CollectionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblrecievablesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblstatementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblcollectedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblallstatementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblimagesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tbldrreportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblchargenewDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblrecievedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tbldelieveryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblpurchaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.CollectionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblrecievablesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblstatementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblcollectedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblallstatementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblimagesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tbldrreportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblchargenewRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblrecievedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.DataSet1.tbldelieveryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblpurchaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.DataSet1.CollectionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblrecievablesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblstatementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblcollectedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblallstatementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblimagesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.DataSet1.tbldrreportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.DataSet1.tblchargenewRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:desktopframework.DataSet1TableAdapters.tblrecievedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.DataSet1TableAdapters.tbldelieveryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.DataSet1TableAdapters.tblpurchaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.DataSet1TableAdapters.CollectionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.DataSet1TableAdapters.tblrecievablesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.DataSet1TableAdapters.tblstatementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.DataSet1TableAdapters.tblcollectedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.DataSet1TableAdapters.tblallstatementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.DataSet1TableAdapters.tblimagesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.DataSet1TableAdapters.tbldrreportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.DataSet1TableAdapters.tblchargenewTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:desktopframework.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(desktopframework.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(desktopframework.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(desktopframework.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:desktopframework.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:desktopframework.DataSet1TableAdapters.TableAdapterManager.UpdateAll(desktopframework.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:desktopframework.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:desktopframework.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:desktopframework.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:desktopframework.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:desktopframework.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:desktopframework.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:desktopframework.dtslacking.tbltrmainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtslacking.txtcogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtslacking.tbltransslipDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtslacking.tbltrstausDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtslacking.tblrebateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtslacking.tbltrmainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtslacking.txtcogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtslacking.tbltransslipRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtslacking.tbltrstausRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtslacking.tblrebateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtslacking.tbltrmainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtslacking.txtcogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtslacking.tbltransslipRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtslacking.tbltrstausRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtslacking.tblrebateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtslacking">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:desktopframework.dtslackingTableAdapters.tbltrmainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtslackingTableAdapters.txtcogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtslackingTableAdapters.tbltransslipTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtslackingTableAdapters.tbltrstausTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtslackingTableAdapters.tblrebateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:desktopframework.dtslackingTableAdapters.TableAdapterManager.UpdateUpdatedRows(desktopframework.dtslacking,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtslackingTableAdapters.TableAdapterManager.UpdateInsertedRows(desktopframework.dtslacking,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtslackingTableAdapters.TableAdapterManager.UpdateDeletedRows(desktopframework.dtslacking,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:desktopframework.dtslackingTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:desktopframework.dtslackingTableAdapters.TableAdapterManager.UpdateAll(desktopframework.dtslacking)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:desktopframework.dtslackingTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:desktopframework.dtslackingTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:desktopframework.dtslackingTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:desktopframework.dtspotoclient.tblpoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtspotoclient.tblpoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtspotoclient.tblpoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtspotoclient">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:desktopframework.dtspotoclientTableAdapters.tblpoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:desktopframework.dtspotoclientTableAdapters.TableAdapterManager.UpdateUpdatedRows(desktopframework.dtspotoclient,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtspotoclientTableAdapters.TableAdapterManager.UpdateInsertedRows(desktopframework.dtspotoclient,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtspotoclientTableAdapters.TableAdapterManager.UpdateDeletedRows(desktopframework.dtspotoclient,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:desktopframework.dtspotoclientTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:desktopframework.dtspotoclientTableAdapters.TableAdapterManager.UpdateAll(desktopframework.dtspotoclient)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:desktopframework.dtspotoclientTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:desktopframework.dtspotoclientTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:desktopframework.dtspotoclientTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tbltrmainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tblprprintDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tbltrprintDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tblpofromprDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tblcinoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tbltrmainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tblprprintRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tbltrprintRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tblpofromprRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tblcinoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tbltrmainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tblprprintRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tbltrprintRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tblpofromprRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtsRPQ.tblcinoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtsRPQ">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:desktopframework.dtsRPQTableAdapters.tbltrmainTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtsRPQTableAdapters.tblprprintTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtsRPQTableAdapters.tbltrprintTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtsRPQTableAdapters.tblpofromprTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtsRPQTableAdapters.tblcinoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:desktopframework.dtsRPQTableAdapters.TableAdapterManager.UpdateUpdatedRows(desktopframework.dtsRPQ,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtsRPQTableAdapters.TableAdapterManager.UpdateInsertedRows(desktopframework.dtsRPQ,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtsRPQTableAdapters.TableAdapterManager.UpdateDeletedRows(desktopframework.dtsRPQ,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:desktopframework.dtsRPQTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:desktopframework.dtsRPQTableAdapters.TableAdapterManager.UpdateAll(desktopframework.dtsRPQ)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:desktopframework.dtsRPQTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:desktopframework.dtsRPQTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:desktopframework.dtsRPQTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:desktopframework.dtssupplier.tblsupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtssupplier.tblitemlistDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtssupplier.tblmanufacturerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtssupplier.tblman2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:desktopframework.dtssupplier.tblsupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtssupplier.tblitemlistRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtssupplier.tblmanufacturerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtssupplier.tblman2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:desktopframework.dtssupplier.tblsupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtssupplier.tblitemlistRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtssupplier.tblmanufacturerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtssupplier.tblman2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:desktopframework.dtssupplier">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:desktopframework.dtssupplierTableAdapters.tblsupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtssupplierTableAdapters.tblitemlistTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtssupplierTableAdapters.tblmanufacturerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:desktopframework.dtssupplierTableAdapters.tblman2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:desktopframework.dtssupplierTableAdapters.TableAdapterManager.UpdateUpdatedRows(desktopframework.dtssupplier,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtssupplierTableAdapters.TableAdapterManager.UpdateInsertedRows(desktopframework.dtssupplier,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:desktopframework.dtssupplierTableAdapters.TableAdapterManager.UpdateDeletedRows(desktopframework.dtssupplier,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:desktopframework.dtssupplierTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:desktopframework.dtssupplierTableAdapters.TableAdapterManager.UpdateAll(desktopframework.dtssupplier)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:desktopframework.dtssupplierTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:desktopframework.dtssupplierTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:desktopframework.dtssupplierTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

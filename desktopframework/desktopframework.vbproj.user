@@ -1,0 +1,18 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>C:\Users\alnel\Desktop\bajmed\1.0.0.69\|C:\Users\alnel\Desktop\bajmed\1.0.0.68\|C:\Users\alnel\Desktop\bajmed\1.0.0.67\|C:\Users\alnel\Desktop\bajmed\1.0.0.65\|C:\Users\alnel\Desktop\bajmed\1.0.0.66\</PublishUrlHistory>
+    <InstallUrlHistory>http://Users/alnel/Desktop/medical/1.0.0.19/|http://Users/Qlaptop/Desktop/medical/1.0.0.19/|http://Users/Qlaptop/Desktop/medical/1.0.0.18/|http://Users/Qlaptop/Desktop/medical/0.0.0.1/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ReferencePath>C:\Program Files (x86)\Business Objects\Common\2.8\managed\</ReferencePath>
+  </PropertyGroup>
+</Project>
